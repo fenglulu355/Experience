@@ -14,7 +14,7 @@
     <div class="cont">
       <!-- <transition name="slide" mode="out-in">
       <keep-alive>-->
-      <component :is="curPage"></component>
+       onent>
       <!-- </keep-alive>
       </transition>-->
     </div>
